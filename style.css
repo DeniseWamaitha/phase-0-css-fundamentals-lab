@@ -3,3 +3,43 @@ body {
   height: 100%;
   margin: 0;
 }
+.ti{
+  text-align: center;
+}
+.ji{
+  background-color: red;
+  text-align: center;
+  width: 25%;
+  float: left;
+}
+.we{
+  background-color: red;
+  text-align: center;
+  width: 25%;
+  float: left;
+}
+.re{
+  background-color: red;
+  text-align: center;
+  width: 25%;
+  float: left;
+}
+.se{
+  background-color: red;
+  text-align: center;
+  width: 25%;
+  float: left;
+}
+.de{
+  navbar padding: 10px;
+  bac
+}
+.gr{
+   width: 800px;
+   text-align: center;
+   
+}
+.as{
+   width: 800px;
+   text-align: center;
+}
